@@ -11,7 +11,7 @@ Let us try inline \(x^2\)
  <p>
 \[ \varphi(X)= X^2 \]
 </p>
-<p>$x^2$</p>
+<p>\(x^2\)</p>
 
 $$  \varphi(X)= X^2 $$
 
@@ -29,10 +29,5 @@ $$  \varphi(X)= X^2 $$
 
 
 \[
-  \begin{aligned}
-    & \bigcap_{n=1}^{\infty} \bigcup_{k=n}^{\infty} \{x \le a_k\} \\
-    =& \bigcap_{n=1}^{\infty} \bigcup_{a \in \{a_k:k \ge n\}} \{x \le a\} \\
-    =& \bigcap_{n=1}^{\infty} \{ x \le \sup \{a_k:k \ge n\}\} \\
-    =& \{x \le \inf\sup \{a_k:k \ge n\}\}
-  \end{aligned}
+x^\phi(x)
 \]
