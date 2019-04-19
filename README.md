@@ -7,4 +7,5 @@ Let us try inline \(x^2\)
 \( f(z) = \frac{1}{2\pi i } \int_{0}^{\infty} \frac{f(\zeta)d\zeta}{\zeta - z} \)
 
 
-\[\varphi(X)= X^2\]
+\[ \varphi(X)= X^2 \]
+$$  \varphi(X)= X^2 $$
