@@ -6,7 +6,9 @@
 Let us try inline \(x^2\) 
 `\( f(z) = \frac{1}{2\pi i } \int_{0}^{\infty} \frac{f(\zeta)d\zeta}{\zeta - z} \)`
 
-
+ `\(x_1 = 132\)` and `\(x_2 = 370\)` and so .
+ 
+ 
 `\[ \varphi(X)= X^2 \]`
 
 `$x^2$`
