@@ -42,9 +42,7 @@ for sequences of sets, they are defined as $\displaystyle
 <p>Claim: $\displaystyle \bigcup_{a \in A} \{x \le a\} = \{x \le \sup
 A\}$.</p>
 
-<p><em>Proof</em>:</p>
 
-<div class="myeqn">
 \[
   \begin{aligned}
     & x \in \bigcup_{a \in A} \{x \le a\} \\
@@ -53,14 +51,9 @@ A\}$.</p>
     \iff& x \le \inf A
   \end{aligned}
 \]
-</div>
 
-<p>The last step is due to the defintion of infimum (<em>greatest</em>
-lower bound).</p>
 
-<p>With the above claim, one has</p>
 
-<div class="myeqn">
 \[
   \begin{aligned}
     & \bigcap_{n=1}^{\infty} \bigcup_{k=n}^{\infty} \{x \le a_k\} \\
@@ -69,17 +62,3 @@ lower bound).</p>
     =& \{x \le \inf\sup \{a_k:k \ge n\}\}
   \end{aligned}
 \]
-</div>
-
-<p>Hence, one can see that $\sup\inf \{a_k:k \ge n\} \le \inf\sup
-\{a_k:k \ge n\}$ and $\displaystyle \bigcup_{n=1}^{\infty}
-\bigcap_{k=n}^{\infty} \{x \le a_k\} \subseteq \bigcap_{n=1}^{\infty}
-\bigcup_{k=n}^{\infty} \{x \le a_k\}$ share something in common.</p>
-
-<p>
-<a href="//validator.w3.org/check?uri=referer"><img
-  src="/images/valid-html401.png" alt="Valid HTML 4.01 Strict"
-  height="31" width="88"></a>
-<a href="//jigsaw.w3.org/css-validator/check/referer"><img
-  src="/images/valid-css.png" alt="Valid CSS" height="31" width="88">
-</a></p>
