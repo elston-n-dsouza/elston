@@ -9,4 +9,6 @@ Let us try inline \(x^2\)
 
 `\[ \varphi(X)= X^2 \]`
 
+`$x^2$`
+
 $$  \varphi(X)= X^2 $$
