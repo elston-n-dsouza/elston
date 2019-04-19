@@ -9,7 +9,7 @@ Let us try inline \(x^2\)
  `\(x_1 = 132\)` and `\(x_2 = 370\)` and so .
  
  <p>
-`\[ \varphi(X)= X^2 \]`
+\[ \varphi(X)= X^2 \]
 </p>
 `$x^2$`
 
