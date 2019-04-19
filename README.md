@@ -17,32 +17,6 @@ $$  \varphi(X)= X^2 $$
 
 
 
-
-
-
-<p>This page is for testing MathJax in my blog.  I wrote some custom
-shorthand like $\zeros \in \R^n$.</p>
-
-<h2>Problem</h2>
-
-<p>For sequences of numbers, <em>limit inferior</em> and <em>limit
-superior</em> are defined as $\liminf (a_n):=\sup\{\inf\{a_k:k \ge
-n\}\}$ and $\limsup (a_n):=\inf\{\sup\{a_k:k \ge n\}\}$ respectively;
-for sequences of sets, they are defined as $\displaystyle
-\bigcup_{n=1}^{\infty} \bigcap_{k=n}^{\infty} A_k$ and $\displaystyle
-\bigcap_{n=1}^{\infty} \bigcup_{k=n}^{\infty} A_k$ respectively.</p>
-
-<p><strong>Why are they consistent?</strong></p>
-
-<h2>Discussion</h2>
-
-<p>It suffices to find a relation between '&lt;' and '&sube;': $\{x
-\le a\} \subseteq \{x \le b\} \iff a \le b$.</p>
-
-<p>Claim: $\displaystyle \bigcup_{a \in A} \{x \le a\} = \{x \le \sup
-A\}$.</p>
-
-
 \[
   \begin{aligned}
     & x \in \bigcup_{a \in A} \{x \le a\} \\
