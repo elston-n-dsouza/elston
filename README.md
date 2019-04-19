@@ -3,34 +3,5 @@
 </script>
 
 # We finally have the equation $$e^{i\pi} + 1 = 0$$
-Let us try inline <p>\(x^2\) 
-\( f(z) = \frac{1}{2\pi i } \int_{0}^{\infty} \frac{f(\zeta)d\zeta}{\zeta - z} \)</p>
-
- `\(x_1 = 132\)` and `\(x_2 = 370\)` and so .
- 
- <p>
-\[ \varphi(X)= X^2 \]
-</p>
-<p>\(x^2\)</p>
-
-$$  \varphi(X)= X^2 $$
-
-<div>
-
-\[
-  \begin{aligned}
-    & x \in \bigcup_{a \in A} \{x \le a\} \\
-    \iff& x \le a \;\forall a \in A \\
-    \iff& x \text{ is a lower bound of } A \\
-    \iff& x \le \inf A
-  \end{aligned}
-\]
-</div>
-
-
-<p>
-
-\[
-x^\phi(x)
-\]
-</p>
+\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
+\\( ax^2 + \sqrt{bx} + c = 0 \\)
