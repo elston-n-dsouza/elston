@@ -15,7 +15,7 @@ Let us try inline \(x^2\)
 
 $$  \varphi(X)= X^2 $$
 
-
+<div>
 
 \[
   \begin{aligned}
@@ -25,7 +25,7 @@ $$  \varphi(X)= X^2 $$
     \iff& x \le \inf A
   \end{aligned}
 \]
-
+</div>
 
 
 \[
