@@ -47,7 +47,7 @@ A\}$.</p>
 <p>The last step is due to the defintion of infimum (<em>greatest</em>
 lower bound).</p>
 
-<p>With the above claim, one has</p>
+<p>With the above claim, one has</p>h
 
 <div class="myeqn">
 \[
