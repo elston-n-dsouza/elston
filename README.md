@@ -11,7 +11,7 @@ Let us try inline \(x^2\)
  <p>
 \[ \varphi(X)= X^2 \]
 </p>
-`$x^2$`
+<p>$x^2$</p>
 
 $$  \varphi(X)= X^2 $$
 
