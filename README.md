@@ -3,4 +3,5 @@
 </script>
 
 # We finally have the equation $$e^{i\pi} + 1 = 0$$
-Let us try inline \(f(z) = \frac{1}{2\pi i }\int_{0}^{\infty}\frac{f(\zeta)d\zeta}{\zeta - z}\)
+Let us try inline \(x^2\) 
+\( f(z) = \frac{1}{2\pi i } \int_{0}^{\infty} \frac{f(\zeta)d\zeta}{\zeta - z} \)
